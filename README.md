@@ -46,9 +46,8 @@ To design a system capable of detecting alcohol levels in a driver and stopping 
 LnT-Project/
 ├── VIT_Vellore_21BEC0299/
 │   └── Alcohol_Detection.ino      # Arduino code for system logic
-├── Project Report.pdf             # Full project documentation
-├── Simulation Video.mp4           # Video demonstration
-├── test/                          # (Optional testing folder placeholder)
+    └── Project Report.pdf             # Full project documentation
+    └── Simulation Video.mp4           # Video demonstration
 └── README.md                      # You're here!
 ```
 ---
