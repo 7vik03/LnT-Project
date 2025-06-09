@@ -40,9 +40,9 @@ To design a system capable of detecting alcohol levels in a driver and stopping 
 - https://www.arduino.cc/en/software
 
 ---
-
 ## 📂 Repository Structure
 
+```
 LnT-Project/
 ├── VIT_Vellore_21BEC0299/
 │   └── Alcohol_Detection.ino      # Arduino code for system logic
@@ -50,7 +50,7 @@ LnT-Project/
 ├── Simulation Video.mp4           # Video demonstration
 ├── test/                          # (Optional testing folder placeholder)
 └── README.md                      # You're here!
-
+```
 ---
 
 ## 🛠️ How It Works
